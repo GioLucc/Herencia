@@ -1,0 +1,15 @@
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\Herencia.csproj.AssemblyReference.cache
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfoInputs.cache
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfo.cs
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\Herencia.csproj.CoreCompileInputs.cache
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\bin\Debug\net6.0\Herencia.exe
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\bin\Debug\net6.0\Herencia.deps.json
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\bin\Debug\net6.0\Herencia.runtimeconfig.json
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\bin\Debug\net6.0\Herencia.dll
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\bin\Debug\net6.0\Herencia.pdb
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\Herencia.dll
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\refint\Herencia.dll
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\Herencia.pdb
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\Herencia.genruntimeconfig.cache
+E:\C# UTNFra\CSharp-UTNFra\Herencia\Herencia\obj\Debug\net6.0\ref\Herencia.dll
