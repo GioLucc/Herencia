@@ -22,10 +22,5 @@ namespace Herencia
         public bool ModoDesarrolloHabilitado { get => modoDesarrolloHabilitado; set => modoDesarrolloHabilitado = value; }
         public float VersionDePlayProtect { get => versionDePlayProtect; set => versionDePlayProtect = value; }
         public float VersionAsistenteDeVoz { get => versionAsistenteDeVoz; set => versionAsistenteDeVoz = value; }
-
-
-
-
-
     }
 }
