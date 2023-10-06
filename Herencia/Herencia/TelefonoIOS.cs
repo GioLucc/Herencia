@@ -23,12 +23,5 @@ namespace Herencia
         public bool ICloudActivado { get => iCloudActivado; set => iCloudActivado = value; }
         public float VersionDeSiri { get => versionDeSiri; set => versionDeSiri = value; }
 
-
-        public void PersonalizarInterfaz()
-        {
-            Console.WriteLine("Personalizando la interfaz de usuario de iOS.");
-        }
-
-
     }
 }
