@@ -30,17 +30,5 @@ namespace Herencia
         }
 
 
-        //public void DesbloquearConFaceID()
-        //{
-        //    if (tieneFaceID)
-        //    {
-        //        Console.WriteLine("Desbloqueando el iPhone con Face ID.");
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("Este iPhone no tiene Face ID.");
-        //    }
-        //}
-
     }
 }
