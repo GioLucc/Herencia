@@ -29,42 +29,18 @@ namespace Herencia
             Console.WriteLine("Personalizando la interfaz de usuario de iOS.");
         }
 
-        public void RealizarVideollamada(String contacto)
-        {
-            Console.WriteLine("Realizando una videollamada a " + contacto + " utilizando FaceTime.");
-        }
 
-        public void ActualizariOS()
-        {
-            Console.WriteLine("Buscando actualizaciones de iOS para el iPhone " + Modelo + ".");
-        }
+        //public void DesbloquearConFaceID()
+        //{
+        //    if (tieneFaceID)
+        //    {
+        //        Console.WriteLine("Desbloqueando el iPhone con Face ID.");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Este iPhone no tiene Face ID.");
+        //    }
+        //}
 
-        public void DesbloquearConFaceID()
-        {
-            if (tieneFaceID)
-            {
-                Console.WriteLine("Desbloqueando el iPhone con Face ID.");
-            }
-            else
-            {
-                Console.WriteLine("Este iPhone no tiene Face ID.");
-            }
-        }
-
-        public String MostrarIos()
-        {
-            StringBuilder sb = new StringBuilder();
-
-            sb.AppendLine(Color);
-            sb.AppendLine(Marca);
-            sb.AppendLine(Modelo);
-            sb.AppendLine(Precio.ToString());
-            sb.AppendLine(tieneFaceID.ToString());
-            sb.AppendLine(iCloudActivado.ToString());
-            sb.AppendLine(versionDeSiri.ToString());
-
-
-            return sb.ToString();
-        }
     }
 }

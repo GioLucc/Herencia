@@ -23,22 +23,6 @@ namespace Herencia
         public string TienePantalla { get => tienePantalla; set => tienePantalla = value; }
         public bool HaceSonidos { get => haceSonidos; set => haceSonidos = value; }
 
-        public void ReproducirCancionBarbieGirl()
-        {
-            if (HaceSonidos)
-            {
-                Console.WriteLine("Reproduciendo la canción 'Barbie Girl'...");               
-            }
-            else
-            {
-                Console.WriteLine("No se pueden reproducir canciones, el teléfono no tiene sonido.");
-            }
-        }
-
-        public void ActivarLuces()
-        {
-            Console.WriteLine("Activando luces parpadeantes..."); 
-        }
 
     }
 }

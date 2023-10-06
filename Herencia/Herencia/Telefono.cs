@@ -26,10 +26,7 @@ namespace Herencia
         public string Color { get => color; set => color = value; }
         public float Precio { get => precio; set => precio = value; }
 
-        public string PrenderTelefono()
-        {
-            return "El telefono está prendiendo";
-        }
+
 
     }
 }

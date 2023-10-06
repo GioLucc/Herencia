@@ -31,14 +31,7 @@ namespace Herencia
         public float CantidadAlmacenamiento { get => cantidadAlmacenamiento; set => cantidadAlmacenamiento = value; }
         public List<string> Aplicaciones { get => aplicaciones; set => aplicaciones = value; }
 
-        public void InstalarApp(String nombreApp)
-        {
-            Console.WriteLine("Instalando la aplicación " + nombreApp + " desde la App Store.");
-        }
 
-        public void RealizarVideollamada(String contacto)
-        {
-            Console.WriteLine("Realizando una videollamada a " + contacto + " utilizando FaceTime.");
-        }
+
     }
 }

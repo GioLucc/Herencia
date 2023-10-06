@@ -22,45 +22,10 @@ namespace Herencia
         public bool ModoDesarrolloHabilitado { get => modoDesarrolloHabilitado; set => modoDesarrolloHabilitado = value; }
         public float VersionDePlayProtect { get => versionDePlayProtect; set => versionDePlayProtect = value; }
         public float VersionAsistenteDeVoz { get => versionAsistenteDeVoz; set => versionAsistenteDeVoz = value; }
-      
-        public void RealizarVideollamada(String contacto)
-        {
-            Console.WriteLine("Realizando una videollamada a " + contacto + " utilizando Whatsapp.");
-        }
-
-        public void ActualizarAndroid()
-        {
-            Console.WriteLine("Buscando actualizaciones de Android para este telefono " + Modelo + ".");
-        }
-
-        public void AlternarModoDesarrollo()
-        {
-            modoDesarrolloHabilitado = !modoDesarrolloHabilitado;
-            if (modoDesarrolloHabilitado)
-            {
-                Console.WriteLine("Modo de desarrollo habilitado.");
-            }
-            else
-            {
-                Console.WriteLine("Modo de desarrollo desactivado.");
-            }
-        }
-
-        public String MostrarAndroid()
-        {
-            StringBuilder sb = new StringBuilder();
-
-            sb.AppendLine(Color);
-            sb.AppendLine(Marca);
-            sb.AppendLine(Modelo);
-            sb.AppendLine(Precio.ToString());
-            sb.AppendLine(modoDesarrolloHabilitado.ToString());
-            sb.AppendLine(versionDePlayProtect.ToString());
-            sb.AppendLine(versionAsistenteDeVoz.ToString());
 
 
-            return sb.ToString();
-        }
+
+
 
     }
 }
